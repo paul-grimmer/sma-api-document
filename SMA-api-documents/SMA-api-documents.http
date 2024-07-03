@@ -1,0 +1,6 @@
+@SMA_api_documents_HostAddress = http://localhost:5173
+
+GET {{SMA_api_documents_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
