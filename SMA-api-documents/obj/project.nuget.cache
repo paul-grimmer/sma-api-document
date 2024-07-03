@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7UW5RPRsAI=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\flame\\Documents\\git\\sma-api-document\\SMA-api-documents\\SMA-api-documents.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\flame\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\flame\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
